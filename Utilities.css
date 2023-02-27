@@ -1,0 +1,45 @@
+
+.flex{
+    display: flex;
+}
+.center{
+    align-items: center;
+}
+
+.justify{
+    justify-content: space-between;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.text-center{
+    text-align: center;
+}
+.btn{
+    padding: 1rem 2.5rem;
+    background-color: grey;
+    color: white;
+    border:  none;
+}
+
+.btn:hover{
+    padding: 1rem 2.5rem;
+    background-color: white;
+    color: black;
+    border:  none;
+    border: 1px solid grey;
+    cursor: pointer;
+}
+.btn-2{
+    padding: 1rem 2.5rem;
+    background-color: white;
+    border:  none;
+}
+.btn-2:hover{
+    padding: 1rem 2.5rem;
+    background-color: grey;
+    color: white;
+    border:  none;
+    border: 1px solid grey;
+    cursor: pointer;
+}
