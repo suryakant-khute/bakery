@@ -247,19 +247,10 @@ footer ul li a{
 
 @media(max-width:778px) {
     
-   .container{
-    all:unset;
-   }
-   .container .left-img{
-    display: none;
-   }
+   /* comming soon  */
 }
 
 @media(max-width:375px){
-
-    *{
-       
-    }
     .bg-1{
         width: 100vw;
         height: 100vh;
